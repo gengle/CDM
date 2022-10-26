@@ -19,7 +19,7 @@
     "babelify": "^10.0.0",
     "jest": "25.1.0",
     "jest-junit": "^6.4.0",
-    "ts-jest": "23.10.5",
+    "ts-jest": "29.0.3",
     "ts-stopwatch": "0.0.4",
     "tslint": "^5.12.1",
     "tslint-microsoft-contrib": "^6.0.0",
