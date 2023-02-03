@@ -26,7 +26,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <skycreamer.jsonassert.version>1.5.0</skycreamer.jsonassert.version>
     <slf4j.version>1.7.25</slf4j.version>
-    <testng.testng.version>6.14.3</testng.testng.version>
+    <testng.testng.version>7.7.0</testng.testng.version>
   </properties>
 
   <name>com.microsoft.commondatamodel:objectmodel</name>
