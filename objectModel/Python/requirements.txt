@@ -37,4 +37,4 @@ typing-extensions==3.7.4
 urllib3==1.25.8
 wcwidth==0.1.7
 wrapt==1.11.1
-zipp==0.5.2
+zipp==3.19.1
