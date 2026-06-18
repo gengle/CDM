@@ -17,7 +17,7 @@
     "@types/jest": "^24.0.3",
     "@types/node": "^10.14.12",
     "babelify": "^10.0.0",
-    "jest": "25.1.0",
+    "jest": "30.4.2",
     "jest-junit": "^6.4.0",
     "ts-jest": "23.10.5",
     "ts-stopwatch": "0.0.4",
@@ -47,7 +47,7 @@
     ]
   },  
   "dependencies": {
-    "adal-node": "^0.1.28",
+    "adal-node": "^0.2.4",
     "guid-typescript": "^1.0.9"
   }
 }
